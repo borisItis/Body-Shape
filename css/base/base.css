@@ -1,0 +1,21 @@
+body {
+  background-color: #1f2a32;
+  color: #fafaf5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: #fafaf5;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
