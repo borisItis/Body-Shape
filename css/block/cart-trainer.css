@@ -53,6 +53,9 @@
 }
 
 @media (max-width: 800px) {
+  h2.section-title {
+    font-size: 50px;
+  }
   .card-trainer-name {
     font-size: 32px;
   }
@@ -63,8 +66,12 @@
     border-radius: 10px;
   }
   h2.section-title {
-    font-size: 42px;
+    font-size: 35px;
   }
+  .card-trainer-name {
+    font-size: 24px;
+  }
+
   button.callback {
     width: 30px;
     height: 30px;
